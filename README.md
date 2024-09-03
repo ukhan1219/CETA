@@ -26,4 +26,4 @@ To explore or contribute to the CETA project:
 3.  Load the dataset and GraphML files into the environment.
 4.  Run the provided scripts to execute the model and analyze the results.
 Contributing
-As this project is a work in progress, contributions and collaboration are welcome. Whether it's improving the model, adding new features, or analyzing different aspects of the data, feel free to open an issue or submit a pull request.
+As this project is a work in progress, contributions and collaboration are welcome. Whether it's improving the model, adding new features, or analyzing different aspects of the data, feel free to reach out for improvements and advancements.
